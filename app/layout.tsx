@@ -5,14 +5,14 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: {
-    default: "InDrive — Negotiate Your Ride Price",
-    template: "%s | InDrive",
+    default: "RideNego — Negotiate Your Ride Price",
+    template: "%s | RideNego",
   },
   description:
-    "InDrive is the world's first negotiation-based ride-hailing app. Set your own price, choose your driver, and ride fair. Available in 700+ cities worldwide.",
-  keywords: ["ride hailing", "taxi app", "negotiate fare", "indrive", "ride sharing"],
+    "RideNego is a negotiation-based ride-hailing app. Set your own price, choose your driver, and ride fair. Available in 700+ cities worldwide.",
+  keywords: ["ride hailing", "taxi app", "negotiate fare", "ridenego", "ride sharing"],
   openGraph: {
-    title: "InDrive — Negotiate Your Ride Price",
+    title: "RideNego — Negotiate Your Ride Price",
     description: "Set your own price, choose your driver, and ride fair.",
     type: "website",
   },

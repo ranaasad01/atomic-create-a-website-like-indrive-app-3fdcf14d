@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Menu, X, Car } from 'lucide-react';
@@ -43,7 +43,7 @@ export default function Navbar() {
               <Car className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-white">
-              in<span className="text-[#E94560]">Drive</span>
+              Ride<span className="text-[#E94560]">Swift</span>
             </span>
           </Link>
 

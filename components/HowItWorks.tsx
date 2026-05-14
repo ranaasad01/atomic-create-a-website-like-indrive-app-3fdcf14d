@@ -40,7 +40,7 @@ export default function HowItWorks() {
             Simple Process
           </div>
           <h2 className="text-4xl sm:text-5xl font-black text-white mb-4">
-            How <span className="text-[#E94560]">InDrive</span> Works
+            How <span className="text-[#E94560]">RideNegotiate</span> Works
           </h2>
           <p className="text-white/50 text-lg max-w-2xl mx-auto">
             Three simple steps to a fair, negotiated ride. No algorithms setting prices — just you and your driver agreeing on a fair fare.

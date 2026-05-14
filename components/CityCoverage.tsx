@@ -17,7 +17,7 @@ export default function CityCoverage() {
             Rides in <span className="text-[#E94560]">700+ Cities</span>
           </h2>
           <p className="text-white/50 text-lg max-w-2xl mx-auto">
-            From megacities to emerging markets, InDrive is transforming how people move around the world.
+            From megacities to emerging markets, RideMatch is transforming how people move around the world.
           </p>
         </div>
 

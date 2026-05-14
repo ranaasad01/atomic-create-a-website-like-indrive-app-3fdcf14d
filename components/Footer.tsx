@@ -94,7 +94,7 @@ export default function Footer() {
               </span>
               <span className="flex items-center gap-1.5">
                 <Phone className="w-4 h-4" />
-                +1 (800) 463-7483
+                +1 (800) 328-7433
               </span>
               <span className="flex items-center gap-1.5">
                 <MapPin className="w-4 h-4" />
@@ -102,7 +102,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-white/30 text-sm">
-              © {new Date().getFullYear()} datRide. All rights reserved.
+              © {new Date().getFullYear()} DatRide. All rights reserved.
             </p>
           </div>
         </div>

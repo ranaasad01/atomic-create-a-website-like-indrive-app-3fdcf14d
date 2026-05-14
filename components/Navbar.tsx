@@ -43,7 +43,7 @@ export default function Navbar() {
               <Car className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-white">
-              dat<span className="text-[#E94560]">Ride</span>
+              Dat<span className="text-[#E94560]">Ride</span>
             </span>
           </Link>
 

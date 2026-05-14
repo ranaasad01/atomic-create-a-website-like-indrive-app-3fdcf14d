@@ -5,14 +5,14 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: {
-    default: "RideNego — Negotiate Your Ride Price",
-    template: "%s | RideNego",
+    default: "datRide — Negotiate Your Ride Price",
+    template: "%s | datRide",
   },
   description:
-    "RideNego is a negotiation-based ride-hailing app. Set your own price, choose your driver, and ride fair. Available in 700+ cities worldwide.",
-  keywords: ["ride hailing", "taxi app", "negotiate fare", "ridenego", "ride sharing"],
+    "datRide is a negotiation-based ride-hailing app. Set your own price, choose your driver, and ride fair. Available in 700+ cities worldwide.",
+  keywords: ["ride hailing", "taxi app", "negotiate fare", "datride", "ride sharing"],
   openGraph: {
-    title: "RideNego — Negotiate Your Ride Price",
+    title: "datRide — Negotiate Your Ride Price",
     description: "Set your own price, choose your driver, and ride fair.",
     type: "website",
   },

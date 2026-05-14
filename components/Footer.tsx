@@ -40,7 +40,7 @@ export default function Footer() {
                 <Car className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold text-white">
-                Ride<span className="text-[#E94560]">Nexus</span>
+                dat<span className="text-[#E94560]">Ride</span>
               </span>
             </Link>
             <p className="text-white/50 text-sm leading-relaxed mb-6">
@@ -90,7 +90,7 @@ export default function Footer() {
             <div className="flex flex-wrap items-center gap-6 text-white/40 text-sm">
               <span className="flex items-center gap-1.5">
                 <Mail className="w-4 h-4" />
-                support@ridenexus.com
+                support@datride.com
               </span>
               <span className="flex items-center gap-1.5">
                 <Phone className="w-4 h-4" />
@@ -102,7 +102,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-white/30 text-sm">
-              © {new Date().getFullYear()} RideNexus. All rights reserved.
+              © {new Date().getFullYear()} datRide. All rights reserved.
             </p>
           </div>
         </div>
